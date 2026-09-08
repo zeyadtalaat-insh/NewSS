@@ -1,0 +1,36 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp /Users/f5rany/Downloads/ss/project/assets/logo.png /Users/f5rany/Documents/Work/SuperStudiosAI/public/images/logo.png)",
+      "Bash(mkdir -p /Users/f5rany/Documents/Work/SuperStudiosAI/public/images/clients)",
+      "Bash(cp /Users/f5rany/Downloads/ss/project/assets/clients/* /Users/f5rany/Documents/Work/SuperStudiosAI/public/images/clients/)",
+      "Bash(npm run *)",
+      "Bash(git stash *)",
+      "Bash(git pull *)",
+      "Bash(npm install *)",
+      "Bash(mv \"24 7.png\" \"24-7.png\")",
+      "Bash(mv \"AlRabeh Hr Logo.png\" \"alrabeh-hr-logo.png\")",
+      "Bash(mv \"Badash .jpg\" \"badash.jpg\")",
+      "Bash(mv \"Dar ward.png\" \"dar-ward.png\")",
+      "Bash(mv \"Najd hall.png\" \"najd-hall.png\")",
+      "Bash(cat)",
+      "Read(//tmp/**)",
+      "Bash(mkdir -p /Users/f5rany/Documents/Work/SuperStudiosAI/src/app/\\\\\\(main\\\\\\))",
+      "Bash(mv /Users/f5rany/Documents/Work/SuperStudiosAI/src/app/page.tsx /Users/f5rany/Documents/Work/SuperStudiosAI/src/app/\\\\\\(main\\\\\\)/page.tsx)",
+      "Bash(mv /Users/f5rany/Documents/Work/SuperStudiosAI/src/app/academy /Users/f5rany/Documents/Work/SuperStudiosAI/src/app/\\\\\\(main\\\\\\)/academy)",
+      "Bash(mv /Users/f5rany/Documents/Work/SuperStudiosAI/src/app/partner /Users/f5rany/Documents/Work/SuperStudiosAI/src/app/\\\\\\(main\\\\\\)/partner)",
+      "Bash(mv /Users/f5rany/Documents/Work/SuperStudiosAI/src/app/ar /Users/f5rany/Documents/Work/SuperStudiosAI/src/app/\\\\\\(main\\\\\\)/ar)",
+      "Bash(git commit *)",
+      "Bash(npm show *)",
+      "Bash(node -e \"const v=JSON.parse\\(require\\('fs'\\).readFileSync\\('/dev/stdin','utf8'\\)\\); console.log\\(v.filter\\(x=>x.startsWith\\('15.'\\)\\).slice\\(-5\\).join\\('\\\\n'\\)\\)\")",
+      "Bash(node *)",
+      "Bash(grep -v \"^$\")",
+      "Bash(node_modules/.bin/next build *)",
+      "Bash(python3 -m json.tool)",
+      "Bash(git add *)",
+      "Bash(git mv *)",
+      "Bash(npx tsc *)",
+      "Read(//Users/f5rany/Downloads/**)"
+    ]
+  }
+}
